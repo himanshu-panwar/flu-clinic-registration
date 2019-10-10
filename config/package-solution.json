@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "flu-clinic-registration-client-side-solution",
+    "id": "2e40a0f7-9a3f-44df-8e10-0de8663b62d7",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/flu-clinic-registration.sppkg"
+  }
+}
